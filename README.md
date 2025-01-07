@@ -28,7 +28,9 @@
 
 
 ## 📝 Blog
-[![Blog](https://img.shields.io/badge/HappyCoding-DC382D?style=for-the-badge&logo=tistory&logoColor=white&color=6DB33F&label=Story&labelColor=DC382D)](https://happy-coding.tistory.com/)
+<a href="https://happy-coding.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/HappyCoding-DC382D?style=for-the-badge&logo=tistory&logoColor=white&color=6DB33F&label=Story&labelColor=DC382D" alt="Blog">
+</a>
 
 ## 🎓 Education
 내일배움캠프 (24.08 ~ 24.10) <br>
@@ -46,5 +48,5 @@ BACK-END SCHOOL : JAVA 8기
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mad_scientist)](https://solved.ac/mad_scientist/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mad-cost&layout=compact)
 
-<h2 style="text-decoration: none;">Stay Hungry. Stay Foolish.</h2>
+<h2>Stay Hungry. Stay Foolish.</h2>
 </div>
