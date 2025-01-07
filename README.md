@@ -28,8 +28,7 @@
 
 
 ## 📝 Blog
-![Blog](https://img.shields.io/badge/HappyCoding-DC382D?style=for-the-badge&logo=tistory&logoColor=white&color=6DB33F&label=Story&labelColor=DC382D)
-
+[![Blog](https://img.shields.io/badge/HappyCoding-DC382D?style=for-the-badge&logo=tistory&logoColor=white&color=6DB33F&label=Story&labelColor=DC382D)](https://happy-coding.tistory.com/)
 
 ## 🎓 Education
 내일배움캠프 (24.08 ~ 24.10) <br>
