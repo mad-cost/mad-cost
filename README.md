@@ -40,10 +40,12 @@ BACK-END SCHOOL : JAVA 8기
 
 ## 🌱 Currently Learning
 **Algorithm** - 문제 해결 능력 향상과 효율적인 코드 작성을 목표로 알고리즘을 학습 중입니다.  
-**Computer Science (CS)** - 컴퓨터 과학의 기초부터 심화까지 학습하며, 시스템 설계 및 이론적 배경을 쌓고 있습니다.
+**Computer Science (CS)** - 컴퓨터 과학을 학습하며, 시스템 설계 및 이론적 배경을 쌓고 있습니다.
 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mad_scientist)](https://solved.ac/mad_scientist/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mad-cost&layout=compact)
+
+<h2 style="text-decoration: none;">Stay Hungry. Stay Foolish.</h2>
 </div>
